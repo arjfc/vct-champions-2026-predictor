@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+plotly
+vlrdevapi==2.4.0
+selectolax<1.0

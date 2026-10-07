@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/cache/
+data/matches.csv
+data/series_games.csv
+data/series_players.csv
